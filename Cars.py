@@ -59,3 +59,4 @@ while True:
         b=int(input("Choose what number you want that makes up your car "))
         car_number=b-1
         print(car_number)
+        print("Floor is the best")
