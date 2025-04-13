@@ -51,6 +51,7 @@ while True:
     # Last true/false question (after this, the game will stop)
     print("This is the last question but it is not true or false. Is Easter or Halloween my favorite holiday?")
     explain = input("Easter or Halloween?   ")
+    print("WOw")
 
     if explain.lower() == "easter" or explain.lower()=="halloween":
         print("You didn't get it since it was a tricky question.")
